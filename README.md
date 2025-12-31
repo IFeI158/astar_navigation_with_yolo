@@ -25,7 +25,7 @@ img_pkg/
 │   └── tb3_localization.launch.py
 ├── best.pt
 ├── package.xml
-└── setup.py
+└── setup.py'''
 ---
 
 ## 🧠 노드 설명 (IntegratedNavigation)
