@@ -17,7 +17,7 @@ A* 경로 계획과 YOLO 객체 감지를 통합한 노드입니다.
 ---
 
 ## 📁 패키지 구조 예시
-
+***
 📦 img_pkg
  ┣ 📂 src
  ┃ ┗ cho_test.py
@@ -25,7 +25,8 @@ A* 경로 계획과 YOLO 객체 감지를 통합한 노드입니다.
  ┃ ┗ tb3_localization.launch.py
  ┣ best.pt
  ┣ package.xml
- ┗ setup.py
+ ┗ setup.py 
+ ***
 ---
 
 ## 🧠 노드 설명 (IntegratedNavigation)
